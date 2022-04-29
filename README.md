@@ -2,7 +2,7 @@
 
 An react web-app that lets you search and play videos from youtube on a localhost.
 Can be visited at:
-https://willowy-rolypoly-40cdf9.netlify.app/
+https://gjorup95-youtube.netlify.app/
 
 ## About
 
